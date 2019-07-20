@@ -6,7 +6,5 @@ Authors@R: c(person("Robert", "Nall", role = c("aut", "cre"),
                      email = "rmn0001@gmail.com"))
 Author: Robert Nall [aut, cre]
 Maintainer: Robert Nall <rmn0001@gmail.com>
-Description: This package provides access to data from the Alabama Department of Conservation 
-and Natural Resources County Harvest Statistics Comparison webpage. The data primarily focuses
-on turkey and deer at the county level.
+Description: This package provides access to data from the Alabama Department of Conservation and Natural Resources County Harvest Statistics Comparison webpage. The data primarily focuses on turkey and deer at the county level.
 License: MIT
