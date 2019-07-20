@@ -1,8 +1,12 @@
 Package: wildlifeHarvest
-Type: Package
-Title: Alabama County Wildlife Harvest Statistics
 Version: 0.1.0
-Author: Robert Nall
-Maintainer: rmn0001@gmail.com
-Description: This package provides access to data from the Alabama Department of Conservation and Natural Resources County Harvest Statistics Comparison webpage. The data primarily focuses on turkey and deer at the county level.
-Encoding: UTF-8
+Date: 2019-07-20
+Title: Alabama County Wildlife Harvest Statistics
+Authors@R: c(person("Robert", "Nall", role = c("aut", "cre"),
+                     email = "rmn0001@gmail.com"))
+Author: Robert Nall [aut, cre]
+Maintainer: Robert Nall <rmn0001@gmail.com>
+Description: This package provides access to data from the Alabama Department of Conservation 
+and Natural Resources County Harvest Statistics Comparison webpage. The data primarily focuses
+on turkey and deer at the county level.
+License: MIT
